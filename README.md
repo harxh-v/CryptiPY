@@ -1,7 +1,7 @@
 # CryptiPY
 Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
 
-Screenshot[https://raw.githubusercontent.com/iHRex/CryptiPY/refs/heads/main/Screenshot%202024-11-13%20101654.png]
+![Screenshot](https://raw.githubusercontent.com/iHRex/CryptiPY/refs/heads/main/Screenshot%202024-11-13%20101654.png)
      
 # Important:
     1. Make Sure your payload file have all the libraries import and it will be a valid payload file
