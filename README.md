@@ -15,7 +15,7 @@ Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
     4. Enjoy
   
 # Note:
-    1. Don't Upload Any Payloads To VirusTotal.com Bcz This tool will not work
+    1. Don't Upload Any Payloads To VirusTotal.com because this tool will not work
      with Time.
     2. Virustotal Share Signatures With AV Comapnies.
     3. Again Don't be an Idiot!
