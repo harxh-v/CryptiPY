@@ -18,7 +18,7 @@ Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
     1. Don't Upload Any Payloads To VirusTotal.com because this tool will not work
      with Time.
     2. Virustotal Share Signatures With AV Comapnies.
-    3. Again Don't be an Idiot!
+    3. Again ""Don't It!""
   
 # KleenScan Scanner Result:-
     1. Generated stub.py Result:-
@@ -60,5 +60,5 @@ Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
     harsh.v@outlook.in
 
 # Warning:-
-    Use this tool Only for Educational Purpose And I will Not be Responsible For ur cruel act.
+    Use this tool Only for Educational Purpose. I am not responsible for any mess you create with this.
   
