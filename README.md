@@ -6,7 +6,6 @@ Python Based Crypter That Can Bypass Any Kinds Of Antivirus Products
 # Important:
     1. Make Sure your payload file have all the libraries import and it will be a valid payload file
     2. If Your Payload get detected then let me know i will update the stub.
-    3. If u need cobalt strike evasions then DM on Telegram: @R0ot1337
   
 # How To Use:
     1. Find Any Python Based Backdoor/RAT on github.
